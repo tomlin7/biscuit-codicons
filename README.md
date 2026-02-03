@@ -1,16 +1,7 @@
 # Codicons
+
+This is a fork of [Visual Studio Code Codicons](https://github.com/microsoft/vscode-codicons) used for [Biscuit](https://github.com/tomlin7/biscuit). 
  
-[![NPM Version](https://img.shields.io/npm/v/@vscode/codicons)](https://www.npmjs.com/package/@vscode/codicons)
-[![NPM Downloads](https://img.shields.io/npm/dw/@vscode/codicons)](https://www.npmjs.com/package/@vscode/codicons)
-[![Build Status](https://github.com/microsoft/vscode-codicons/actions/workflows/build.yml/badge.svg)](https://github.com/microsoft/vscode-codicons/actions/workflows/build.yml)
-[![CodeQL Status](https://github.com/microsoft/vscode-codicons/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/microsoft/vscode-codicons/actions/workflows/build.yml)
-
-![codicons preview of the icons](https://raw.githubusercontent.com/microsoft/vscode-codicons/main/preview.png)
-
-This tool takes the [Visual Studio Code icons](https://github.com/microsoft/vscode-codicons/tree/main/src/icons) and converts them into an icon font using [fantasticon](https://github.com/tancredi/fantasticon).
-
-Using the [Visual Studio Codicon Lookup](https://microsoft.github.io/vscode-codicons/dist/codicon.html) you can preview and search for icons.
-
 ## Install
 You can use the [npm package](https://www.npmjs.com/package/@vscode/codicons) and install into your project via:
 
